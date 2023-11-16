@@ -182,3 +182,9 @@ EDITOR=nvim visudo
 
 - And then uncomment 'wheel ALL ALL'
 - Reboot the system
+
+## Installing your applications
+
+- To install steam, you need to first enable multilib by uncommenting the multilib section in `/etc/pacman.conf`
+- Then do a system upgrade
+- Then install steam

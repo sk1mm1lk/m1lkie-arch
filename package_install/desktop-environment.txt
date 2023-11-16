@@ -2,6 +2,7 @@ dmenu
 dunst
 flameshot
 i3-wm
+i3blocks
 i3lock
 i3status
 lightdm
@@ -10,3 +11,5 @@ picom
 rofi
 xorg-server
 xorg-xinit
+qtile
+nitrogen
