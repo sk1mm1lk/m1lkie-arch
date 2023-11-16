@@ -1,0 +1,8 @@
+firefox
+thunar
+vi
+xterm
+vim
+nitrogen
+neovim
+git

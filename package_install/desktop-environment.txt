@@ -1,0 +1,12 @@
+dmenu
+dunst
+flameshot
+i3-wm
+i3lock
+i3status
+lightdm
+lightdm-slick-greeter
+picom
+rofi
+xorg-server
+xorg-xinit
