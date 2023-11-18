@@ -1,0 +1,6 @@
+dunst
+flameshot
+picom
+xorg-server
+xorg-xinit
+nitrogen

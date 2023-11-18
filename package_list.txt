@@ -18,6 +18,7 @@ curl
 dosfstools
 efibootmgr
 ethtool
+fzf
 gnome-keyring
 gnu-netcat
 linux-headers
@@ -26,6 +27,8 @@ network-manager-applet
 networkmanager
 noto-fonts
 noto-fonts-emoji
+ntfs-3g
+fuse2
 pipewire
 pipewire-alsa
 pipewire-audio

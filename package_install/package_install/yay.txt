@@ -1,0 +1,6 @@
+ttf-times-new-roman
+amberol
+google-chrome
+minecraft-launcher
+rstudio-desktop
+simplescreenrecorder
